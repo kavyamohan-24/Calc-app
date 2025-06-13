@@ -20,6 +20,12 @@ const Navbar = () => {
         <li class="nav-item">
           <Link class="nav-link" to="/sub">Subtraction</Link>
         </li>
+        <li class="nav-item">
+          <Link class="nav-link" to="/multi">Multiplication</Link>
+        </li>
+        <li class="nav-item">
+          <Link class="nav-link" to="/div">Division</Link>
+        </li>
         
         
       </ul>
