@@ -25,7 +25,7 @@ const Addition = () => {
   return (
     <div>
 
-      <Navbar/>
+      <Navbar/> <br/>
 
       <div className="container">
         <div className="row">
